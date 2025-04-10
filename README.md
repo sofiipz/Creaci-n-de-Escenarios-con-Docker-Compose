@@ -26,7 +26,7 @@ Redmine es una aplicación web para la gestión de proyectos, y en esta parte se
   - `POSTGRES_USER`
   - `POSTGRES_DB`
 
-**Fecha**: 2025-04
+**Fecha**: Abril 2025
 
 
 
